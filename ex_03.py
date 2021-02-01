@@ -25,4 +25,3 @@ print(f'{worker1.get_full_name()}, {worker1.get_total_income()}')
 print(f'{worker2.get_full_name()}, {worker2.get_total_income()}')
 print(f'{worker3.get_full_name()}, {worker3.get_total_income()}')
 print(f'{worker4.get_full_name()}, {worker4.get_total_income()}')
-#

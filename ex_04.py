@@ -66,4 +66,3 @@ print(car4.turn('налево'))
 print(car5.show_speed())
 print(car6.color)
 print(car6.name)
-#
