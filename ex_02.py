@@ -9,4 +9,3 @@ class Road:
 
 city_road = Road()
 city_road.total_asphalt(34, 15)
-#
